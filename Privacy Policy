@@ -1,0 +1,23 @@
+# Avalon Privacy Policy
+
+Our Privacy Policy explains how we collect, use, store and protect your account information throughout our services.
+
+# The Information we collect
+1) User ID's
+   - To distinguish accounts from one another we are required to use user ID's as that is the only identifying and unchanging variable about a discord account.
+   - User ID's are accessible to every discord user by enabling "Developer Mode" under the "Advanced" tab in the settings on discord.
+2) Account details
+   - Any progress made on a user account will be stored as required and linked to the user ID.
+
+The information provided above is up to date and will be changed accordingly if any changes should occure. Users will be properly notified in case of changes.
+
+We do not store any more information about users than we need to for our services to work.
+
+Data Access
+ - None of our collected data, is being shared with any third parties.
+ - The bot owner is the only person with direct access to our database.
+
+Data Removal
+ - Players can use the built in `/delete account` command on the bot, or contact our support to do so (https://discord.gg/avalon).
+ - This will start a 2 week grace period in which the user can decide to cancel their account deletion. Skipping the grace period is not possible unless extraordinary circumstances. This is to protect users with compromised accounts from losing their progress.
+ - After the 2 week grace period is over, everything linked to the players account will be permanently deleted from our database.
